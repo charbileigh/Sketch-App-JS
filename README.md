@@ -1,4 +1,4 @@
-# Sketch-App-JS
+# Sketch-App-Vanilla-JS
 This is a mini vanilla JS Sketch app
 
 # Image of the Project
